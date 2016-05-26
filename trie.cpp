@@ -5,7 +5,6 @@
 #include <vector>
 
 using namespace std;
-// Alphabet size (# of symbols)
 #define ALPHABET_SIZE (26)
 
 // Converts key current character into index
